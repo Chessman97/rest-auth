@@ -1,0 +1,15 @@
+{
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+    ],
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "importSorter.generalConfiguration.sortOnBeforeSave": true,
+    "debug.node.autoAttach": "off",
+}
